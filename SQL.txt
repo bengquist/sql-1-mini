@@ -1,0 +1,7 @@
+1. SELECT * FROM artist;
+
+2. SELECT firstname, lastname, country FROM employee;
+
+3. SELECT name, composer, milliseconds FROM track WHERE milliseconds > 299000
+
+4. SELECT count(*) FROM track WHERE milliseconds > 299000
